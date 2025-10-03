@@ -239,3 +239,4 @@ for text, kwargs in lines2:
     y_pos -= 0.030
 
 plt.show()              
+# Pearson correlation metrics calculation
