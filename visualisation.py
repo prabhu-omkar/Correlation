@@ -240,3 +240,5 @@ for text, kwargs in lines2:
 
 plt.show()              
 # Pearson correlation metrics calculation
+
+# Slide 1: Chocolate vs Happiness scatter layout
