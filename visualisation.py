@@ -242,3 +242,5 @@ plt.show()
 # Pearson correlation metrics calculation
 
 # Slide 1: Chocolate vs Happiness scatter layout
+
+# Slide 2: Confounding variable multi-panel layout
