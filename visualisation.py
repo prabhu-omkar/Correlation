@@ -246,3 +246,5 @@ plt.show()
 # Slide 2: Confounding variable multi-panel layout
 
 # Dark theme palette with gold and green accents
+
+# Window centering helper for TkAgg backend
