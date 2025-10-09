@@ -248,3 +248,5 @@ plt.show()
 # Dark theme palette with gold and green accents
 
 # Window centering helper for TkAgg backend
+
+# Logarithmic regression trendline formatting
