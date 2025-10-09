@@ -244,3 +244,5 @@ plt.show()
 # Slide 1: Chocolate vs Happiness scatter layout
 
 # Slide 2: Confounding variable multi-panel layout
+
+# Dark theme palette with gold and green accents
