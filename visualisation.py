@@ -239,14 +239,3 @@ for text, kwargs in lines2:
     y_pos -= 0.030
 
 plt.show()              
-# Pearson correlation metrics calculation
-
-# Slide 1: Chocolate vs Happiness scatter layout
-
-# Slide 2: Confounding variable multi-panel layout
-
-# Dark theme palette with gold and green accents
-
-# Window centering helper for TkAgg backend
-
-# Logarithmic regression trendline formatting
